@@ -1,0 +1,28 @@
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\MainWindow.g.cs
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\App.g.cs
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test_MarkupCompile.cache
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test_MarkupCompile.lref
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\MainWindow.baml
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.g.resources
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\danie\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\danie\Documents\TestWPF\Test\Test\bin\Debug\Test.exe.config
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\Test.exe
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\Test.pdb
+C:\Users\danie\Documents\TestWPF\Test\Test\bin\Debug\Test.exe
+C:\Users\danie\Documents\TestWPF\Test\Test\bin\Debug\Test.pdb
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\App.g.cs
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\Test.g.resources
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\danie\Documents\TestWPF\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
